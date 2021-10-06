@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bajaj689
 - 🌱 I’m currently learning Data Structures and Algorithms with GCI.
-- 💞️ I’m looking to collaborate on we development projects and on any project that will have huge positive impact in people's lives.
+- 💞️ I’m looking to collaborate on web development projects and on any project that will have huge positive impact in people's lives.
 - 📫 My email: ayushbajaj111@gmail.com
 
 <!---
